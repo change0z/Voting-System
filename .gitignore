@@ -126,3 +126,7 @@ compile_commands.json
 # Fortran module files
 *.mod
 *.smod
+
+# Rust / Cargo
+target/
+**/*.rs.bk
